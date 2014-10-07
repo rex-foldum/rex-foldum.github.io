@@ -11,7 +11,7 @@ So the index.html for this repository defines the GitHub Page for this account!
 
 ### What are you doing with your GitHub Page?
 
-Currently, I am only using it for a project that anyone &mdash; anyone who is comfortable with HTML and understands the basics of CSS and JS &mdash; can try out at:  
+Currently, I am only using it for a project featured at Udacity that anyone &mdash; anyone who is comfortable with HTML and understands the basics of CSS and JS &mdash; can try out:  
 https://www.udacity.com/course/ud884
 
 In a nutshell, you learn some important page speed optimizations Google recommends for developers at...  
@@ -22,7 +22,7 @@ https://github.com/cameronwp/udportfolio
 
 ---
 
-### Anything we should know about said project?
+### Anything we should know about said Udacity project?
 
 Well, I've finished it; my optimizations are done.
 
